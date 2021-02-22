@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "Plang",
+      "categoryId": 4,
+      "description": "very good quelity",
+      "price": 30000,
+      "isAvailable": true,
+      "productImg": "http://localhost:4200/assets/img/Plang.jpeg",
+      "rating": 4,
+      "review": 200,
+      "venderName": "abc shoap 2",
+      "waranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "Under wear",
+      "categoryId": 2,
+      "description": "good quality",
+      "price": 100,
+      "isAvailable": true,
+      "productImg": "http://localhost:4200/assets/img/underwear.jpeg",
+      "rating": 4,
+      "review": 1500,
+      "venderName": "abc shoap three",
+      "waranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "Kids shoes",
+      "categoryId": 5,
+      "description": "description four",
+      "price": 400,
+      "isAvailable": true,
+      "productImg": "http://localhost:4200/assets/img/kids_show.jpeg",
+      "rating": 4,
+      "review": 120,
+      "venderName": "abc shoap 4",
+      "waranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Mobile",
+      "categoryId": 1,
+      "description": "well model",
+      "price": 10000,
+      "isAvailable": true,
+      "productImg": "http://localhost:4200/assets/img/mobile.jpeg",
+      "rating": 5,
+      "review": 1200,
+      "venderName": "abc shoap 5",
+      "waranty": 1
+    },
+    {
+      "categoryId": "3",
+      "productName": "lahanga123",
+      "description": "good",
+      "rating": "",
+      "price": "1200",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "pink",
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Men"
+    },
+    {
+      "id": 3,
+      "categoryName": "Women"
+    },
+    {
+      "id": 4,
+      "categoryName": "Home and Furniture"
+    },
+    {
+      "id": 5,
+      "categoryName": "Baby and Kids"
+    }
+  ]
+}
